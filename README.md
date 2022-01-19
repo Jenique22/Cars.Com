@@ -1,6 +1,8 @@
 # Cars.Com
-Your peace of mind
+ # Your peace of mind
+
 Website created to show cars available at Cars.Com
+I have only added a front page
 
 Cars.Com is an establishment offering a large selection of the finest pre-owned vehicles to satisfy the needs of our clients.
 
