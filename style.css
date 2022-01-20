@@ -1,6 +1,9 @@
 body {
-  background: url('pexels-prem-pal-singh-tanwar-8498613.jpg');
+  background: url('pexels-prem-pal-singh-tanwar-8498613.jpg')no-repeat center center fixed;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 h1 {
