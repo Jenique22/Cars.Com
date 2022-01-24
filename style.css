@@ -1,19 +1,23 @@
+html,
 body {
+  height: 100%;
+  width: 100%;
   background: url('pexels-prem-pal-singh-tanwar-8498613.jpg')no-repeat center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+
 }
 
-h1 {
-	text-align: center;
+h1{
+  text-align: center;
   margin-top: 0%;
   margin-bottom: 0%;
   color: goldenrod;
   text-shadow: 10px 2px 0px rgb(0, 0, 0);
 	font-family: 'Roboto', sans-serif;
-    font-size:200px;
+  font-size: 200px;
     animation-duration: 3s;
     animation-name: slidein;
   
@@ -32,7 +36,6 @@ h1 {
   }
   
 h2 {
-	text-align: center;
 	font-family: 'Roboto', sans-serif;
   font-size: 50px;
   color: goldenrod;
@@ -57,10 +60,6 @@ border:goldenrod 2px solid;
 border-radius: 8px;
 box-decoration-break: slice;
 padding: 15px 32px;
-display: flex;
-justify-content: center;
-text-align: center;
-text-decoration: none;
 font-size: 16px;
 margin:auto;
 cursor: pointer;}
